@@ -7,7 +7,7 @@ from myapp.forms import EmployeeForm
 from django.http import HttpResponse
 
 from myapp.models import Employee
-def emp(request):
+def emp1(request):
     if request.method == "POST":
         form = EmployeeForm(request.POST)
         if form.is_valid():
@@ -17,7 +17,12 @@ def emp(request):
                 pass
     else:
         form = EmployeeForm()
-        return render(request, 'index2.html', {'form': form})
+        return render(request,'index2.html',{'form':form})
+
+def losipr(request):
+    template =loader.get_template('losipr.html')
+    return render(request,"losipr.html")
+
 
 def index11(request):
     if request.method == 'POST':
