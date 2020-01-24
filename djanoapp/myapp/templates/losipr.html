@@ -5,9 +5,11 @@
     <title>login/signup</title>
 <style>
     .button {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  background-color: #4CAF50;
   background-color:orange;
   border: yes ;
-  color: white;
+  color:indigo;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -17,8 +19,26 @@
   cursor: pointer;
   }
   .button1 {
+  -webkit-transition-duration: 0.4s; /* Safari */;
+  transition-duration: 0.4s;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
   background-color: #4CAF50;
-  border: none;
+  border: yes;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
+  .button2 {
+  -webkit-transition-duration: 0.4s; /* Safari */;
+  transition-duration: 0.4s;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  background-color: indigo;
+  border: yes;
   color: white;
   padding: 15px 32px;
   text-align: center;
@@ -30,12 +50,15 @@
   }
 </style>
 </head>
-<body>
+<body style="background-color:#00FFE6">
 <H1>Hello everyone.</H1>
 <p>This is a page for login/signup/ page</p>
 <p>The orange file takes you to login page and blue one to the signup page.</p>
 <button class="button" onclick="window.location.href = 'http://127.0.0.1:8000/emp1/';"> Login
 </button>
+<button class="button2" onclick="window.location.href = '#';"> Profile
+</button>
+
 
 
 <button class="button1" onclick="window.location.href = 'http://127.0.0.1:8000/index11/';"> Signup

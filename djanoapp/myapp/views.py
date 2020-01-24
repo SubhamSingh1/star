@@ -56,7 +56,7 @@ def find(request):
     return render(request,"find.html")
 def find1(request):
     a=int(request.GET.get('num',None))
-    if a%2 ==0:
+    if a%2==0:
         html="<html><body><h3>even is %s.</h3></body></html>"%a
     else:
         html="<html><body><h3>odd is %s.</h3></body></html>"%a
@@ -65,7 +65,7 @@ def find2(request):
     a = int(request.GET.get('num1', None))
     b = int(request.GET.get('num2', None))
     c=a+b
-    html="<html><body><h2>The sum is %s</h2></body></html>"%c
+    # html="<html><body><h2>The sum is %s</h2></body></html>"%c
     return HttpResponse(html)
 
 
@@ -101,5 +101,5 @@ def setcookie(request):
     response.set_cookie('java-tutorial','javapoint.com')
     return response
 def getcookie(request):
-    tutorial=request.COOKIES['java-tutorial']
+    tutorial=request.COOKIES['java-tutorial1']
     return HttpResponse("java-tutorials @:"+ tutorial)

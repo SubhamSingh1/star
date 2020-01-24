@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="484ecbb2-bdac-42d0-9a5b-25a830d6449c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djanoapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djanoapp/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myapp/templates/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/templates/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/templates/find.html" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/templates/find.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/templates/losipr.html" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/templates/losipr.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/djanoapp" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -107,10 +107,10 @@
       <screen x="0" y="0" width="1536" height="826" />
     </state>
     <state x="368" y="4" key="CommitChangelistDialog2/0.0.1536.826@0.0.1536.826" timestamp="1579801526249" />
-    <state x="548" y="166" key="FileChooserDialogImpl" timestamp="1579801589847">
+    <state x="548" y="166" key="FileChooserDialogImpl" timestamp="1579838396240">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="548" y="166" key="FileChooserDialogImpl/0.0.1536.826@0.0.1536.826" timestamp="1579801589847" />
+    <state x="548" y="166" key="FileChooserDialogImpl/0.0.1536.826@0.0.1536.826" timestamp="1579838396240" />
     <state width="1513" height="256" key="GridCell.Tab.0.bottom" timestamp="1579637918643">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
