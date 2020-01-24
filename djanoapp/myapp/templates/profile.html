@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>profile page</title>
+    {% load static %}
+    <style>
+        .center {border-style: yes;
+    border-color: black;border-width: 5px;text-align: center;display: block;margin-left: auto;margin-right: auto;width: 20%;}
+    p{font-family:monospace;}
+    h1{font-size:55px;font-family:lobster;}
+    </style>
+</head>
+
+<body style="background-color:blue" >
+<h1 style="color:yellow">This is my profile picture:</h1>
+<img class="center" src="{% static 'IMG_20161019_183137_processed.jpg'%}" alt="My" height="200px" width="300px">
+
+
+</body>
+</html>

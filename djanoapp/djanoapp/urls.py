@@ -38,8 +38,9 @@ urlpatterns = [
     path('gsession/', views.getsession1),
     path('s/', views.setcookie),
     path('g/', views.getcookie),
-    path('emp1/',views.emp1),
-    path('losipr/', views.losipr),
+    path('lsp/', views.losipr),
+    path('emp1/', views.emp),
+    path('pro/', views.profpg),
 
 ]
 

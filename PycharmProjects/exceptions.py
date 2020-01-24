@@ -1,0 +1,5 @@
+a=int(input("Enter a"))
+b=int(input("enter b"))
+c=(a/b)
+print("a/b=%d"%c)
+print("I am other part")

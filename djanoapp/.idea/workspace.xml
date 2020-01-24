@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="484ecbb2-bdac-42d0-9a5b-25a830d6449c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myapp/templates/find.html" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/templates/find.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myapp/templates/losipr.html" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/templates/losipr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="484ecbb2-bdac-42d0-9a5b-25a830d6449c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,11 +18,7 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
   <component name="ProjectId" id="1WL2Rk8JviquXfTDgzVZNpzpNki" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -37,8 +28,8 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/djanoapp" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PycharmProjects" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -102,15 +93,15 @@
     </task>
     <servers />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="368" y="4" key="CommitChangelistDialog2" timestamp="1579801526249">
+    <state x="548" y="166" key="FileChooserDialogImpl" timestamp="1579848351786">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="368" y="4" key="CommitChangelistDialog2/0.0.1536.826@0.0.1536.826" timestamp="1579801526249" />
-    <state x="548" y="166" key="FileChooserDialogImpl" timestamp="1579838396240">
-      <screen x="0" y="0" width="1536" height="826" />
-    </state>
-    <state x="548" y="166" key="FileChooserDialogImpl/0.0.1536.826@0.0.1536.826" timestamp="1579838396240" />
+    <state x="548" y="166" key="FileChooserDialogImpl/0.0.1536.826@0.0.1536.826" timestamp="1579848351786" />
     <state width="1513" height="256" key="GridCell.Tab.0.bottom" timestamp="1579637918643">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
@@ -143,13 +134,9 @@
       <screen x="0" y="0" width="1536" height="826" />
     </state>
     <state width="1513" height="256" key="GridCell.Tab.1.right/0.0.1536.826@0.0.1536.826" timestamp="1579637918643" />
-    <state x="299" y="44" key="SettingsEditor" timestamp="1579781896661">
+    <state x="299" y="44" key="SettingsEditor" timestamp="1579843764167">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="299" y="44" key="SettingsEditor/0.0.1536.826@0.0.1536.826" timestamp="1579781896661" />
-    <state x="531" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579801510221">
-      <screen x="0" y="0" width="1536" height="826" />
-    </state>
-    <state x="531" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.826@0.0.1536.826" timestamp="1579801510221" />
+    <state x="299" y="44" key="SettingsEditor/0.0.1536.826@0.0.1536.826" timestamp="1579843764167" />
   </component>
 </project>

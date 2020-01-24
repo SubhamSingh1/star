@@ -1,0 +1,6 @@
+def print(numbers: object) -> object:
+    for i in range(0,11):
+     print(i)
+
+
+print(numbers)
