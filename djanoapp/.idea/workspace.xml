@@ -28,7 +28,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PycharmProjects" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -98,10 +98,10 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="548" y="166" key="FileChooserDialogImpl" timestamp="1579848351786">
+    <state x="548" y="166" key="FileChooserDialogImpl" timestamp="1579884890830">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="548" y="166" key="FileChooserDialogImpl/0.0.1536.826@0.0.1536.826" timestamp="1579848351786" />
+    <state x="548" y="166" key="FileChooserDialogImpl/0.0.1536.826@0.0.1536.826" timestamp="1579884890830" />
     <state width="1513" height="256" key="GridCell.Tab.0.bottom" timestamp="1579637918643">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
