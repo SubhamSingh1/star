@@ -129,7 +129,7 @@ def getsession1(request):
 
 
 def setcookie(request):
-    response = HttpResponse("Cookie set")
+    response = HttpResponse("Cookie set1")
     response.set_cookie('java-tutorial', 'javapoint.com1')
     return response
 
